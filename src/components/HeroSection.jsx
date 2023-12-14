@@ -63,7 +63,9 @@ export default function HeroSection() {
                 investment required is of ₹50 Lakhs.
               </span>
             </div>
-            <div className="callback-btn">Request Callback</div>
+            <button type="submit" className="contact-button">
+            Request Callback
+          </button>
           </Col>
           <Col
             lg={4}
