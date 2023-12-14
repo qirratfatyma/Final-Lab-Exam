@@ -11,7 +11,8 @@ export default function HeroSection() {
         <Row>
           <Col lg={8} sm={12}>
             <h1 className="heading">
-              Request <span style={{ color: "#4040DA" }}>Callback</span>
+            <b>  Request <span style={{ color: "#4040DA" }}>Callback</span>
+            </b>
             </h1>
             <Container>
               <Row>
