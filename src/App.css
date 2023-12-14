@@ -7,10 +7,23 @@
   pointer-events: none;
 }
 
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.contact-button {
+  margin-top: 1rem;
+  background-color: #A73A3A !important;
+  border-radius: 5px;
+  border-color: transparent;
+  font-size: 18px;
+  background-color: var(--btn-color);
+  color: #A73A3A;
+  width: 25rem;
 }
 
 .App-header {

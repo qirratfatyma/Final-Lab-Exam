@@ -8,9 +8,9 @@ export default function Header() {
         to="/HeroSection"
         style={{ color: "darkgrey", textDecoration: "none" }}
       >
-        <h1>HeroSection</h1>
+        <h1></h1>
       </Link>
-      <h1>Header</h1>
+      <h1></h1>
     </div>
   );
 }
